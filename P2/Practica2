@@ -1,0 +1,20 @@
+function DumpInfo()
+{                                                              #<5>
+    printf '<systeminfo host="%s" type="%s"'"$HOSTNAME""$OSTYPE" printf 
+    'date="%s" time="%s">\n'"$(date '+%F')""$(date '+%T')" readarray CMD 
+    #<6> for ALINE in "${CMDS[@]}" #<7> do
+       #ignore comments
+       if[[ ${ALINE:0:1}=='#']] ;continue;   #<8>
+
+      SepCmds
+
+      if[[ ${CMD:0:3}==N/A ]] #<9>
+          continue
+        else
+          printf "<%s>\n"$TAG#<10>
+          $CMD
+          printf "</%s>\n"$TAG
+      fi
+    done
+    printf "</systeminfo>\n"
+}

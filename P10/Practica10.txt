@@ -1,0 +1,457 @@
+www.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : www.gstatic.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 247
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:818::2003
+
+
+    www.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : www.gstatic.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 245
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.195
+
+
+    edge.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : edge.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-microsoft-com.a-0016.a-msedge.net
+
+
+    Nombre de registro  . : edge-microsoft-com.a-0016.a-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0016.a-msedge.net
+
+
+    edge.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : edge.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 76
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-microsoft-com.a-0016.a-msedge.net
+
+
+    Nombre de registro  . : edge-microsoft-com.a-0016.a-msedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 76
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a-0016.a-msedge.net
+
+
+    Nombre de registro  . : a-0016.a-msedge.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 76
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 204.79.197.219
+
+
+    lapatorop5.mshome.net
+    ----------------------------------------
+    Nombre de registro  . : LapatoroP5.mshome.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 0
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.26.192.1
+
+
+    lapatorop5.mshome.net
+    ----------------------------------------
+    No hay registros de tipo AAAA
+
+
+    www.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : www.youtube.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 246
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : youtube-ui.l.google.com
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 246
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:817::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 246
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:818::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 246
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:819::200e
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 246
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:81a::200e
+
+
+    www.youtube.com
+    ----------------------------------------
+    Nombre de registro  . : www.youtube.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 243
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : youtube-ui.l.google.com
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 243
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.14
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 243
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.46
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 243
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.142
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 243
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.174
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 243
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.206
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 243
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.238
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 243
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.15.14
+
+
+    Nombre de registro  . : youtube-ui.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 243
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.238
+
+
+    i.ytimg.com
+    ----------------------------------------
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 244
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:81a::2016
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 244
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:817::2016
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 244
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:818::2016
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 244
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:819::2016
+
+
+    i.ytimg.com
+    ----------------------------------------
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 244
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.15.22
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 244
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.246
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 244
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.22
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 244
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.54
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 244
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.150
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 244
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.182
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 244
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.214
+
+
+    Nombre de registro  . : i.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 244
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.251.34.246
+
+
+    1.192.26.172.in-addr.arpa
+    ----------------------------------------
+    Nombre de registro  . : 1.192.26.172.in-addr.arpa.
+    Tipo de registro  . . : 12
+    Período de vida . . . : 0
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro PTR. . . . . : LapatoroP5.mshome.net
+
+
+    r4---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r4---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 621
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r4.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r4.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 621
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:f::f
+
+
+    r4---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r4---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 621
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r4.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r4.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 621
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.15
+
+
+    replit.com
+    ----------------------------------------
+    Nombre de registro  . : replit.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 282
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700::6812:d26
+
+
+    Nombre de registro  . : replit.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 282
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2606:4700::6812:c26
+
+
+    replit.com
+    ----------------------------------------
+    Nombre de registro  . : replit.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 282
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.18.12.38
+
+
+    Nombre de registro  . : replit.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 282
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 104.18.13.38
+
+
+    eval.global.replit.com
+    ----------------------------------------
+    Nombre de registro  . : eval.global.replit.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 283
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 34.120.5.79
+
+
+    r5---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 623
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r5.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 623
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:f::10
+
+
+    r5---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 620
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r5.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 620
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.16
+
+
+    fonts.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : fonts.gstatic.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 243
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : gstaticadssl.l.google.com
+
+
+    Nombre de registro  . : gstaticadssl.l.google.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 243
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:817::2003
+
+
+    fonts.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : fonts.gstatic.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 244
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : gstaticadssl.l.google.com
+
+
+    Nombre de registro  . : gstaticadssl.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 244
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.227
